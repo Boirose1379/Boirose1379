@@ -8,8 +8,8 @@ Serverless Web Application: AWS Lambda, API Gateway, S3, and DynamoDB
 Containerized Microservices Architecture: Docker, Kubernetes, and AWS EKS
 
 🌐 Connect with me:
-Twitter 
-Medium
+Twitter : https://x.com/daddyrowz
+Medium: https://medium.com/@boiroseiroegbu
 
 🛠️ Languages and Tools:
 AWS 
