@@ -7,17 +7,16 @@ Cloud Infrastructure as Code (IaC): AWS Infrastructure Setup using Terraform
 Serverless Web Application: AWS Lambda, API Gateway, S3, and DynamoDB
 Containerized Microservices Architecture: Docker, Kubernetes, and AWS EKS
 
-## 🌐 Connect with me
+## 🌐 Connect with me:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/daddyrowz)
-  [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@boiroseioregbu)
-
-## 🛠️ Languages and Tools
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+    <a href="https://twitter.com/daddyrowz" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="Twitter X" width="40" height="40" style="filter: invert(26%) sepia(93%) saturate(2373%) hue-rotate(186deg) brightness(95%) contrast(95%);"/>
+    </a>
+    <a href="https://medium.com/@boiroseioregbu" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/medium-1.svg" alt="Medium" width="40" height="40"/>
+    </a>
+</p>
 
 
 ✨ Always learning, always building! 🚀
