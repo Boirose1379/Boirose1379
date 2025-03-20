@@ -31,8 +31,8 @@ Containerized Microservices Architecture: Docker, Kubernetes, and AWS EKS
     <a href="https://www.terraform.io/" target="_blank">
         <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
     </a>
-    <a href="https://kubernetes.io/" target="_blank">
-        <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     </a>
 </p>
 
