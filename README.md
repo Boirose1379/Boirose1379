@@ -18,6 +18,7 @@ Containerized Microservices Architecture: Docker, Kubernetes, and AWS EKS
     </a>
 </p>
 
+
 ## 🛠️ Languages & Tools:
 
 <p align="left">
@@ -34,8 +35,6 @@ Containerized Microservices Architecture: Docker, Kubernetes, and AWS EKS
         <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
     </a>
 </p>
-
-
 
 
 ✨ Always learning, always building! 🚀
