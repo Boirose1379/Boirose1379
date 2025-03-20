@@ -11,12 +11,31 @@ Containerized Microservices Architecture: Docker, Kubernetes, and AWS EKS
 
 <p align="left">
     <a href="https://twitter.com/daddyrowz" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="Twitter X" width="40" height="40" style="filter: invert(26%) sepia(93%) saturate(2373%) hue-rotate(186deg) brightness(95%) contrast(95%);"/>
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
     <a href="https://medium.com/@boiroseioregbu" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/medium-1.svg" alt="Medium" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
     </a>
 </p>
+
+## 🛠️ Languages & Tools:
+
+<p align="left">
+    <a href="https://aws.amazon.com/" target="_blank">
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </a>
+    <a href="https://www.terraform.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+    </a>
+    <a href="https://kubernetes.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    </a>
+</p>
+
+
 
 
 ✨ Always learning, always building! 🚀
